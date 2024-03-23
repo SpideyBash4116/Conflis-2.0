@@ -1,5 +1,5 @@
 # Conflis-2.0
-Unfortunately, Conflis was supossedly made in Python. SO, I decide to make an upgrade on C++. Luckily, I have an upgrade.
+Unfortunately, Conflis was supossedly made in Python. So, I decide to make an upgrade on C++. Luckily, I have an upgrade.
 - New Setup Page
 - Users
 - Settings
