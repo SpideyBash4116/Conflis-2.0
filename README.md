@@ -5,4 +5,9 @@ Unfortunately, Conflis was supossedly made in Python. So, I decide to make an up
 - Settings
 - Assistant
 - Wallpapers
+
 That's all the features today. Have a good day. Dont forget about the search feature coming tomorrow.
+
+
+Sincerely Yours,
+(c) Conflis Team
